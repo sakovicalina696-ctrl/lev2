@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  
+  <title>Document</title>
+
+</head>
+<body >
+<header>
+    
+    
+    
+    <nav class="navbar">
+        
+        <div class="links">
+            <a href="https://student.logikaschool.com.ua/project-sandbox/31360" class="button">Windows</a>
+            <a href="https://sakovicalina696-ctrl.github.io/lev-page3/" class="button">Mac</a>
+            </div>
+            <h1 class="logo">Linuks🐧</h1>
+            </nav>
+</header>    
+    <main>
+        <div class="infa">
+        <p>Linux — це сімейство операційних систем з відкритим кодом, побудованих на ядрі Linux, яке створив Лінус Торвальдс у 1991 році. На відміну від Windows, Linux можна вільно використовувати, змінювати та поширювати</p>
+        </div>
+        <div class="perevagi">
+        <ul>📌Основні Характеристики
+        <li>Відкритий код: будь-хто може переглянути та змінити систему.</li>
+        <li>Безкоштовність: більшість версій не потребують оплати.</li>
+        <li>Стабільність: система рідко «падає» і добре працює навіть довго без перезавантаження.</li>
+        <li>Безпека: менше вірусів у порівнянні з Windows.</li>
+        </ul>
+        </div>
+        <div class="prichinawindi">
+            <ul>⚙️ Для чого потрібна Linuks
+            <li>сервери та інтернет-сайти;</li>
+            <li>програмування та розробка;</li>
+            <li>кібербезпека;</li>
+            <li>робота на слабких комп’ютерах;</li></ul>
+            </div>
+            <div class="plusi">
+                <ul>👍 Переваги
+                <li>безкоштовний;</li>
+                <li>висока безпека;</li>
+                <li>гнучкість налаштувань;</li>
+                </ul></div>
+                <iframe width="966" height="543" src="https://www.youtube.com/embed/ShcR4Zfc6Dw" title="Why so many distros? The Weird History of Linux" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </main>
+    
+    
+</body>
