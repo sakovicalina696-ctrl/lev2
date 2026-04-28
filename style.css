@@ -1,0 +1,88 @@
+.navbar {
+    font-family: Sans-Serif;
+    text-decoration: none;
+    
+}
+.links {
+    
+    text-align: right ;
+    color: black;
+    font-size:32px;
+    
+    
+    
+    
+}
+h1 {
+    text-align: center;
+    color: white;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+
+.button {
+    
+
+  font-family: inherit;
+  border: none;
+  outline: 1px dotted rgb(37, 37, 37);
+  outline-offset: -4px;
+  cursor: pointer;
+  background: hsl(0deg 0% 75%);
+  box-shadow:
+    inset -1px -1px #292929,
+    inset 1px 1px #fff,
+    inset -2px -2px rgb(158, 158, 158),
+    inset 2px 2px #ffffff;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 5px 30px;
+}
+
+button:active {
+  box-shadow:
+    inset -1px -1px #fff,
+    inset 1px 1px #292929,
+    inset -2px -2px #ffffff,
+    inset 2px 2px rgb(158, 158, 158);
+}
+
+body {
+    margin: none ;
+    
+}
+header {
+    background-color: #3366ff;
+    margin: -10px;
+}
+footer {
+    background-color: #3366ff;
+}
+
+.infa {
+    font-size: 20px;
+    font-family: Monospace;
+}
+.perevagi {
+    font-size: 20px;
+    background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(190, 214, 116, 0.14) 0%);
+}
+.prichinawindi {
+    font-size: 20px;
+    background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(116, 203, 214, 0.14) 0%);
+}
+.plusi {
+    font-size: 20px;
+    background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(116, 165, 214, 0.14) 0%);
+}
+.logo {
+    text-shadow: 2px 2px 2px gray;
+}
